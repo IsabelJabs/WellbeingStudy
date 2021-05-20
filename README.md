@@ -83,6 +83,8 @@ Looking at the average achievement and meaning per age group and gender, there i
 
 ![avg](https://github.com/IsabelJabs/WellbeingStudy/blob/main/Images/Avg_age_gender.png)
 
+[Tableau Visualisations](https://public.tableau.com/profile/isabeljabs#!/vizhome/Wellbeing_Lifestyle/Overview?publish=yes)
+
 ## Machine Learning 
 
 The machine learning was conducted to predict the high achievers (Category: Achievement, Score: High). 
