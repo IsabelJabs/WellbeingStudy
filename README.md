@@ -9,12 +9,12 @@
 - [The Data](#the-data)
 - [Visualisation](#visualisation)
 - [Machine Learning](#machine-learning)
-- [Review and Outlook](#review-and-outlook)
+- [Review](#review)
 - [Links](#links)
 
 ## Project Outline
 
-
+Investigate high achievements - high meaning 
 We build a machine learning model for a real estate company to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated. 
 The senior management of the real estate company also wants us to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value - $650.000 and above.
 
@@ -23,7 +23,7 @@ The senior management of the real estate company also wants us to explore the ch
 ## The Data
 
 More tham 15000 survey results from a [Website about Happiness and Wellbeing](http://www.authentic-happiness.com) during a time frame from July 2015 to March 2021. 
-The data contains information about age, gender, date of filling out the survey and 20 wellbeing features, which are answers to the survey questions. 
+The data contains information about age, gender, date of filling out the survey and 20 wellbeing features as answers to the survey questions. 
 In order to analyse the 20 features best, 5 categories with each 4 features were identified and each scored low, medium or high: 
 Body
 Mind
@@ -62,5 +62,35 @@ In detail:
 * supporting_others: how many people did your help the last 12 month, 0 to 10 
 * time_for_passion: daily hours, 0 to 10
 
-![Survey](http://www.authentic-happiness.com/your-life-satisfaction-score)
-![Data set](https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data)
+[Survey](http://www.authentic-happiness.com/your-life-satisfaction-score)
+
+[Data set](https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data)
+
+## Visualisation
+
+After the correlation of the categories achievement and meaning have found to have the highest correlation, they were investigated further and visualised in Tableau.
+
+## Machine Learning 
+
+The machine learning was conducted to predict the high achievers (Category: Achievement, Score: High). 
+The high achievers are only 18% of the total, which leads to an imbalanced sample size. 
+Therefore the Randon Forest Classifier Model resulted in a Precision score of 51%, Recall 33% and Accuracy Score of 57%. 
+The Logistic Regression result was Precision 54%, Recall 31% and Accuracy score of 83%.
+After oversampling the high achiever class with SMOTE the result of the Logistic Regression improved to Precision 70%, Recall 75% and Accuracy Score of 72%.
+
+## Review
+
+The expectation of the study to show that people with high meaning in their life also have high achievements could not be seen.
+The categorisation of features and visualisation has shown that people with low meaning in life often have low achievements (and/or the vice versa) and people with medium meaning in life often have medium achievements (and or vice versa). 
+
+The average aggregated data devided by age groups and gender showed, that meaning in life and achievements increase from young to older age groups.
+Furthermore meaning increases more in female older age groups, while achievements increase more in male older age groups.
+
+The category that had the second highest correlations to others was the connection category to achievement and to meaning. 
+
+Surprisingly the body and mind categories did not have significant correlations. 
+A reason for these result could be found in the small sample size or in the features that describe the categories. 
+
+
+
+
