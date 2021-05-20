@@ -18,7 +18,7 @@
 We build a machine learning model for a real estate company to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated. 
 The senior management of the real estate company also wants us to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value - $650.000 and above.
 
-![Project_process](https://user-images.githubusercontent.com/81168853/115729162-7858de80-a385-11eb-9281-ccc290097ab7.png)
+
 
 ## The Data
 
@@ -62,5 +62,5 @@ In detail:
 * supporting_others: how many people did your help the last 12 month, 0 to 10 
 * time_for_passion: daily hours, 0 to 10
 
-[Survey](http://www.authentic-happiness.com/your-life-satisfaction-score)
-[Data set](https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data)
+![Survey](http://www.authentic-happiness.com/your-life-satisfaction-score)
+![Data set](https://www.kaggle.com/ydalat/lifestyle-and-wellbeing-data)
