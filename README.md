@@ -23,6 +23,7 @@ Furthermore the relationship between meaning and achievement for gender and diff
 
 More tham 15000 survey results from a [Website about Happiness and Wellbeing](http://www.authentic-happiness.com) during a time frame from July 2015 to March 2021. 
 The data contains information about age, gender, date of filling out the survey and 20 wellbeing features as answers to the survey questions. 
+The survey group is probably generally interested in the wellbeing topic as this survey is found to be a website about happiness and wellbeing. 
 
 Gender: 62% Female (9858), 38% Male (6113)
 4 Age Groups: under 21, 21-35, 36-50 and over 50
