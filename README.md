@@ -10,7 +10,6 @@
 - [Visualisation](#visualisation)
 - [Machine Learning](#machine-learning)
 - [Review](#review)
-- [Links](#links)
 
 ## Project Outline
 
@@ -19,9 +18,11 @@ A machine learning model was built to predict high achieving people based on the
 The question, if a high meaning in life will result in high achievements has been visualised and evaluated. 
 Furthermore the relationship between meaning and achievement for gender and different age groups has been analysed. 
 
+[Presentation](https://github.com/IsabelJabs/WellbeingStudy/blob/main/Presentation/Wellbeing_Lifestyle_DA_Presentation.pdf)
+
 ## The Data
 
-More tham 15000 survey results from a [Website about Happiness and Wellbeing](http://www.authentic-happiness.com) during a time frame from July 2015 to March 2021. 
+More than 15000 survey results from a [Website about Happiness and Wellbeing](http://www.authentic-happiness.com) during a time frame from July 2015 to March 2021. 
 The data contains information about age, gender, date of filling out the survey and 20 wellbeing features as answers to the survey questions. 
 The survey group is probably generally interested in the wellbeing topic as this survey is found to be a website about happiness and wellbeing. 
 
@@ -54,13 +55,13 @@ In detail:
 * achievement: No. of successes over the last 12 month 
 * flow: hours per day 
 
-4. Connection, assessing the strength of your network and your inclination to discover the world;
+4. Connection
 * core_circle: very close people 0 to 10 
 * lost_vacation: days per year
 * social_network: interactions on a typical day 0 to 10 
 * places_visited: 0 to 10 new places 
 
-5. Meaning, evaluating your compassion, generosity and how much 'you are living the life of your dream’.
+5. Meaning
 * donation: times of financial donation or volunteering per year
 * live_vision: clear for how many years, 0 to 10 
 * supporting_others: how many people did your help the last 12 month, 0 to 10 
