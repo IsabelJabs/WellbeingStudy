@@ -91,6 +91,8 @@ Therefore the Randon Forest Classifier Model resulted in a Precision score of 51
 The Logistic Regression result was Precision 54%, Recall 31% and Accuracy score of 83%.
 After oversampling the high achiever class with SMOTE the result of the Logistic Regression improved to Precision 70%, Recall 75% and Accuracy Score of 72%.
 
+[JupyterNotebook: Machine Learning](https://github.com/IsabelJabs/WellbeingStudy/blob/main/MachineLearning/wellbeingML.ipynb)
+
 ## Review
 
 The expectation of the study to show that people with high meaning in their life also have high achievements could not be seen.
