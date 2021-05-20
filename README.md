@@ -1,3 +1,4 @@
+![cover](https://github.com/IsabelJabs/WellbeingStudy/blob/main/Images/wellbeing_cover.jpg)
 # Wellbeing and Lifestyle Study 
 ## IronHack Bootcamp Final Project 
 ### by [Isabel Jabs](https://github.com/IsabelJabs)
