@@ -24,6 +24,10 @@ The senior management of the real estate company also wants us to explore the ch
 
 More tham 15000 survey results from a [Website about Happiness and Wellbeing](http://www.authentic-happiness.com) during a time frame from July 2015 to March 2021. 
 The data contains information about age, gender, date of filling out the survey and 20 wellbeing features as answers to the survey questions. 
+
+Gender: 62% Female (9858), 38% Male (6113)
+4 Age Groups: under 21, 21-35, 36-50 and over 50
+
 In order to analyse the 20 features best, 5 categories with each 4 features were identified and each scored low, medium or high: 
 Body
 Mind
@@ -68,7 +72,16 @@ In detail:
 
 ## Visualisation
 
-After the correlation of the categories achievement and meaning have found to have the highest correlation, they were investigated further and visualised in Tableau.
+After the correlation of the categories achievement and meaning have found to have the highest correlation (48%), they were investigated further and visualised in Tableau. 
+
+The thesis of high achievers having high meaning in their life could not be seen in the data, as seen below. Although the most number of people have the combination low meaning % low achievement or medium meaning & medium achievement. We can also see that very few people who have high meaning in their live will have low achievements. 
+
+![vis](https://github.com/IsabelJabs/WellbeingStudy/blob/main/Images/Arc_Meaning_Achievement.png)
+
+
+Looking at the average achievement and meaning per age group and gender, there is a visible trend to people having more meaning and achievement when in older age groups, which is not surprising but logical. Interestingly women meaning in life increases even more than their achievements and for men it is the other way around. 
+
+![avg](https://github.com/IsabelJabs/WellbeingStudy/blob/main/Images/Avg_age_gender.png)
 
 ## Machine Learning 
 
