@@ -1,4 +1,4 @@
-# WellbeingStudy 
+# Wellbeing and Lifestyle Study 
 ## IronHack Bootcamp Final Project 
 ### by [Isabel Jabs](https://github.com/IsabelJabs)
 ### May 2021
