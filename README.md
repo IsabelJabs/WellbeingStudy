@@ -75,7 +75,8 @@ In detail:
 
 After the correlation of the categories achievement and meaning have found to have the highest correlation (48%), they were investigated further and visualised in Tableau. 
 
-The assumption of high achievers having high meaning in their life could not be seen in the data, as seen below. Although the most number of people have the combination low meaning % low achievement or medium meaning & medium achievement. We can also see that very few people who have high meaning in their live will have low achievements. 
+The assumption of high achievers having high meaning in their life could not be seen in the data, as seen below. The combination high achievements & high meaning makes 8% of the total with 1313 people. 
+The highest number of people have the combination low meaning & low achievement (3499 people or 22%) or medium meaning & medium achievement (4117 people or 26%). We can also see that very few people who have high meaning in their live will have low achievements (186 or 1%). 
 
 ![vis](https://github.com/IsabelJabs/WellbeingStudy/blob/main/Images/Arc_Meaning_Achievement.png)
 
