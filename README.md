@@ -14,11 +14,10 @@
 
 ## Project Outline
 
-Investigate high achievements - high meaning 
-We build a machine learning model for a real estate company to predict the selling prices of houses based on a variety of features on which the value of the house is evaluated. 
-The senior management of the real estate company also wants us to explore the characteristics of the houses using some business intelligence tools. One of those parameters includes understanding which factors are responsible for higher property value - $650.000 and above.
-
-
+This study investigates how different factors of wellbeing and lifestyle of people influence each other. 
+A machine learning model was built to predict high achieving people based on their body, mind, connection and meaning wellbeing situation.
+The question, if a high meaning in life will result in high achievements has been visualised and evaluated. 
+Furthermore the relationship between meaning and achievement for gender and different age groups has been analysed. 
 
 ## The Data
 
